@@ -1,2 +1,4 @@
-# OlaMundo
- Primiero Repositorio Versiomado
+# Ola, Mundo!
+ Primiero Repositorio Versionamento
+
+ Primeiros passos como programador 
